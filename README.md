@@ -7,4 +7,5 @@ The blocks fall at a certain rate, but you can make them fall faster if you’re
 Your objective is to get all the blocks to fill all the empty space in a line at the bottom of the screen; 
 whenever you do this, you’ll find that the blocks vanish and you get awarded some points.  
 
+Prewiev of play menu:
 ![alt text](Images/game.png "logo")
