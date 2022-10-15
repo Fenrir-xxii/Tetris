@@ -1,4 +1,4 @@
-![alt text](Images\logo.png "logo")  
+![alt text](Images/logo.png "logo")  
 Tetris is a simple implementation of popular game.
 It contains 6 standart tetris figures. 
 The aim in Tetris is simple; you bring down blocks from the top of the screen. 
@@ -7,4 +7,4 @@ The blocks fall at a certain rate, but you can make them fall faster if you’re
 Your objective is to get all the blocks to fill all the empty space in a line at the bottom of the screen; 
 whenever you do this, you’ll find that the blocks vanish and you get awarded some points.  
 
-![alt text](Images\game.png "logo")
+![alt text](Images/game.png "logo")
