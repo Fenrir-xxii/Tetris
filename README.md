@@ -1,6 +1,8 @@
 ![alt text](Images/logoTetris.png "logo")  
+
 Tetris is a simple implementation of popular game.  
-It contains 6 standart tetris figures. 
+
+It contains 6 standart tetris figures.  
 The aim in Tetris is simple; you bring down blocks from the top of the screen. 
 You can move the blocks around, either left to right and/or you can rotate them. 
 The blocks fall at a certain rate, but you can make them fall faster if you’re sure of your positioning. 
